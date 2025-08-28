@@ -26,6 +26,10 @@ It provides insights into employee attrition and workforce demographics to suppo
 - `HR_Analytics_Dashboard.pdf` → Exported dashboard
 - `README.md` → Project documentation
 
+## 📸 Dashboard Preview  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c8c70af-4c47-4cbe-ba89-327badfc5b61" />
+
+
 ## ⚡ How to Use
 1. Clone this repository:
    ```bash
